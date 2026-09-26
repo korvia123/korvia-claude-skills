@@ -125,11 +125,11 @@ Korvia should emphasize practical business outcomes rather than AI hype.
 
 Every outreach message must answer:
 
-**"Why should THIS business care?"**
+**“Why should THIS business care?”**
 
 Do not create generic messages such as:
 
-> "Hi, we help businesses leverage AI to increase efficiency. Would you be interested in learning more?"
+> “Hi, we help businesses leverage AI to increase efficiency. Would you be interested in learning more?”
 
 Instead, identify a specific business signal and build the message around it.
 
@@ -348,7 +348,7 @@ Avoid:
 * Excessive compliments
 * Fake familiarity
 * Overly formal language
-* Generic "hope you're doing well"
+* Generic “hope you're doing well”
 * Long descriptions of Korvia
 * Feature dumping
 * Unsubstantiated claims
@@ -356,7 +356,7 @@ Avoid:
 
 The prospect should feel:
 
-**"They actually looked at my business."**
+**“They actually looked at my business.”**
 
 ---
 
@@ -376,11 +376,11 @@ Examples:
 
 Weak:
 
-> "I wanted to introduce you to Korvia AI Consulting."
+> “I wanted to introduce you to Korvia AI Consulting.”
 
 Better:
 
-> "I noticed your website says you're available 24/7, but there's an opportunity to make sure calls are still handled when your team can't answer."
+> “I noticed your website says you’re available 24/7, but there’s an opportunity to make sure calls are still handled when your team can’t answer.”
 
 The message should create curiosity without making unsupported accusations.
 
@@ -392,11 +392,11 @@ The primary objective is to start a conversation.
 
 Preferred CTAs:
 
-* "Open to a 10-minute conversation?"
-* "Worth showing you what this could look like for [Company]?"
-* "Would you be open to a quick call?"
-* "I can show you a 2-minute demo if you're curious."
-* "Would it be worth exploring?"
+* “Open to a 10-minute conversation?”
+* “Worth showing you what this could look like for [Company]?”
+* “Would you be open to a quick call?”
+* “I can show you a 2-minute demo if you're curious.”
+* “Would it be worth exploring?”
 
 For qualified prospects, use:
 
@@ -477,7 +477,7 @@ Breakup / final follow-up
 
 Do not make every follow-up say:
 
-> "Just following up."
+> “Just following up.”
 
 Each follow-up should introduce a new reason to respond.
 
@@ -579,7 +579,7 @@ Each message should reflect the actual business context.
 
 If I say:
 
-**"Create a targeted campaign for [industry] in Calgary"**
+**“Create a targeted campaign for [industry] in Calgary”**
 
 you should:
 
@@ -663,7 +663,7 @@ The skill should think beyond the obvious.
 
 For example, if a business says:
 
-**"Available 24/7"**
+**“Available 24/7”**
 
 do not automatically say they need an AI receptionist.
 
@@ -718,7 +718,7 @@ The messaging should communicate that Korvia understands business first and tech
 
 Before generating any outreach message, ask yourself:
 
-**"If I were the owner receiving this message, would I immediately understand why this person contacted MY business specifically?"**
+**“If I were the owner receiving this message, would I immediately understand why this person contacted MY business specifically?”**
 
 If the answer is no, improve the personalization.
 
