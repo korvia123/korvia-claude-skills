@@ -5,7 +5,7 @@ description: "The objective is to help Korvia build authority, generate conversa
 
 # CREATE A CLAUDE SKILL: KORVIA LINKEDIN GROWTH & SALES OPERATOR
 
-Create a Claude Skill called: **Korvia LinkedIn Growth & Sales Operator**
+Create a Claude Skill called: **Korvia LinkedIn Growth & Sales Operator**
 
 The objective is to help Korvia build authority, generate conversations, identify potential clients, nurture prospects, and convert relevant LinkedIn activity into qualified business opportunities.
 
@@ -333,7 +333,7 @@ Start with a strong hook.
 
 Avoid:
 
-> "AI is changing the world."
+> “AI is changing the world.”
 
 Prefer specific business observations.
 
@@ -388,7 +388,7 @@ Use relevant examples:
 
 Whenever possible, translate AI technology into:
 
-**"What does this mean for the business owner?"**
+**“What does this mean for the business owner?”**
 
 ---
 
@@ -406,13 +406,13 @@ Regularly identify:
 
 Potential content formats:
 
-**"What Calgary business owners should know about…"**
+**“What Calgary business owners should know about…”**
 
-**"3 ways Calgary SMBs can use AI…"**
+**“3 ways Calgary SMBs can use AI…”**
 
-**"I noticed something interesting about Calgary businesses…"**
+**“I noticed something interesting about Calgary businesses…”**
 
-**"A Calgary business could automate this entire workflow…"**
+**“A Calgary business could automate this entire workflow…”**
 
 Do not fabricate observations about specific businesses.
 
@@ -437,7 +437,7 @@ Prioritize conversations where Korvia can provide genuine value.
 
 Avoid generic comments such as:
 
-> "Great post!"
+> “Great post!”
 
 Instead create useful comments that:
 
@@ -530,7 +530,7 @@ Possible structure:
 
 Example:
 
-> "Hi Sarah — I've been following the growth of Calgary service businesses and the increasing role AI is playing in customer response and operations. Thought it would be valuable to connect."
+> “Hi Sarah — I’ve been following the growth of Calgary service businesses and the increasing role AI is playing in customer response and operations. Thought it would be valuable to connect.”
 
 Adapt this to the individual.
 
@@ -664,25 +664,25 @@ Then recommend the appropriate response.
 
 Common objections:
 
-### "We already use AI."
+### “We already use AI.”
 
 Determine what they use and identify whether there is another opportunity.
 
-### "Not interested."
+### “Not interested.”
 
 Do not pressure them.
 
-### "Send me information."
+### “Send me information.”
 
 Provide concise, relevant information and establish a natural next step.
 
-### "How much does it cost?"
+### “How much does it cost?”
 
 Do not invent pricing.
 
 Explain that pricing depends on the workflow and scope, then move toward a discovery conversation where appropriate.
 
-### "We don't need AI."
+### “We don't need AI.”
 
 Do not argue.
 
@@ -712,7 +712,7 @@ Use relevant future content rather than repetitive sales messages.
 
 When I say:
 
-**"Run today's Korvia LinkedIn operation."**
+**“Run today's Korvia LinkedIn operation.”**
 
 Perform the following workflow:
 
@@ -840,12 +840,12 @@ Where appropriate, promote Korvia's AI receptionist and other solutions through 
 
 Potential content:
 
-* "What happens when a business misses a call?"
-* "What an AI receptionist can actually handle"
-* "AI receptionist vs voicemail"
-* "What happens to leads after business hours?"
-* "5 repetitive customer-service tasks AI can handle"
-* "A 2-minute AI workflow demonstration"
+* “What happens when a business misses a call?”
+* “What an AI receptionist can actually handle”
+* “AI receptionist vs voicemail”
+* “What happens to leads after business hours?”
+* “5 repetitive customer-service tasks AI can handle”
+* “A 2-minute AI workflow demonstration”
 
 Focus on demonstrating business value.
 
@@ -860,7 +860,7 @@ Rotate CTAs.
 Examples:
 
 * Comment with your biggest AI challenge
-* DM me "AI"
+* DM me “AI”
 * Book a free consultation
 * Book a free 30-minute AI strategy session
 * Ask for a demo
